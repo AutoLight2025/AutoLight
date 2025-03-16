@@ -8,3 +8,6 @@ Supporting information for the paper:
 
 * `tasks` — description of the tasks, checkpoints, and scoring criteria for task completion rates in this paper.
 * `paper_figs` — data for **Figure 3(b)** and  **Figure 3(c)** in the paper.
+
+## Framework of AutoLight
+<img src="./assets/Framework.svg" width="100%">
